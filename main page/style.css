@@ -1,0 +1,49 @@
+body{
+          background-color: #023047;
+          color: #eee;
+          text-transform: capitalize;
+          font-size: 20px;
+          font-family: cursive;
+          font-weight: bolder;
+          font-style: italic;
+          
+}
+nav{
+          text-transform: capitalize;
+          font-size: 20px;
+          font-family: cursive;
+          font-weight: bolder;
+          font-style: italic;
+}
+.generation{
+display: flex;
+align-items: center;
+justify-content: center;
+/* margin-left: 450px; */
+margin-top: 30px;
+}
+.email,
+.password{
+          text-align: center;
+          color: #eee;
+          border: solid #8ecae6;
+          background-color: #023047;
+          height: 20px;
+          width: 500px;
+}
+.password{
+          margin-top: -30px;
+}
+.img{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 100px;
+}
+.g{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          /* margin-left: 450px; */
+          margin-top: 10px;     
+}
